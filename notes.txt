@@ -1,0 +1,1 @@
+/home/brito/go/bin/evans proto/course_category.proto --host localhost
